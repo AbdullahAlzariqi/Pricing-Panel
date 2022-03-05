@@ -1,2 +1,2 @@
 # Pricing-Panel
-My first Html-CSS Project u
+My first Html-CSS Project 
